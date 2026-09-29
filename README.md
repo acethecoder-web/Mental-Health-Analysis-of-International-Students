@@ -57,3 +57,42 @@ This indicates that younger students may represent a more vulnerable group withi
 # Conclusion
 
 The analysis identified several factors associated with depression among international students, including region, gender, educational level, and age group. The findings suggest that students from Southeast Asia, female students, undergraduates, and individuals aged 18 to 23 exhibited relatively higher levels of depression within the dataset. These insights can serve as a starting point for deeper investigation into the factors influencing student mental health and well-being.
+
+<img width="1188" height="462" alt="image" src="https://github.com/user-attachments/assets/e058dcb4-81e2-4a70-93c8-5149bf67ae5a" />
+
+<img width="1179" height="559" alt="image" src="https://github.com/user-attachments/assets/69d6a488-c608-458a-9e2f-17d10bf33c18" />
+
+
+<img width="1181" height="373" alt="image" src="https://github.com/user-attachments/assets/b3f0425e-3109-4ac3-b27e-41842ded5b42" />
+
+<img width="1176" height="556" alt="image" src="https://github.com/user-attachments/assets/4f2a89b3-f115-4a26-a28a-30ca4af41dfb" />
+
+
+<img width="1175" height="372" alt="image" src="https://github.com/user-attachments/assets/a4c84c37-ab5b-49fb-bd82-ec30b7d672bc" />
+
+<img width="1168" height="545" alt="image" src="https://github.com/user-attachments/assets/ed470d61-35ee-44b1-9300-d6f555105964" />
+
+
+<img width="1177" height="363" alt="image" src="https://github.com/user-attachments/assets/434100c8-bbd7-4896-ac33-c303201ea051" />
+
+<img width="1175" height="549" alt="image" src="https://github.com/user-attachments/assets/d66cf900-ba80-40b6-ac77-a398f87a1c1a" />
+
+
+<img width="1179" height="690" alt="image" src="https://github.com/user-attachments/assets/1e58f8ec-dfd6-4896-91de-10fe95930d43" />
+
+<img width="1181" height="554" alt="image" src="https://github.com/user-attachments/assets/6205ce89-24c0-47b9-99e9-b7279c4ec6e6" />
+
+
+KEY COLUMNS THAT WAS USED ON THIS STUDY:
+
+<img width="501" height="353" alt="image" src="https://github.com/user-attachments/assets/07582768-2eef-4653-967e-18d3143c13d6" />
+
+
+
+
+
+
+
+
+
+
